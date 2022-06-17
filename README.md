@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Hieudinhpro
-- 🌱 I’m currently learning Data Science and Artificial Intelligence 
+- 🌱 I’m currently learning Data Science  
  
 
 <!---

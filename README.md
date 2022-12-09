@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Hieudinhpro
-- 🌱 I’m currently learning Machine learning, Deep learning and AI
+- 🌱AI
  
 
 <!---

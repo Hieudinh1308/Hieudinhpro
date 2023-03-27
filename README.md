@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Hieudinhpro
-- 🌱AI
+- 🌱i am AI Engineer
  
 
 <!---

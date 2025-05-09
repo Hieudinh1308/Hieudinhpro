@@ -1,7 +1,9 @@
 - 👋 Hi, I’m @Hieudinh1308
 - I am an AI Engineer
 - 🌱🌱🌱🌱🌱 \
- ![](https://komarev.com/ghpvc/?username=Hieudinh1308&color=green)
+ ![](https://komarev.com/ghpvc/?username=Hieudinh1308&color=green)   \
+
+http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username={Hieudinh1308}&theme={theme_name}&exclude={exclude}
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg">

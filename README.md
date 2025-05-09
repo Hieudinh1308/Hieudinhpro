@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Hieudinh1308
 - I am an AI Engineer
-- 🌱🌱🌱🌱🌱
+- 🌱🌱🌱🌱🌱 \
  ![](https://komarev.com/ghpvc/?username=Hieudinh1308&color=green)
 
 <picture>
